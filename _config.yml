@@ -1,24 +1,24 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
+title: Madison Drace
+description: Musician-Musicologist
 repository: "andrewstiefel/music-portfolio"
 baseurl: 
-url: "http://andrewstiefel.com"
+url: "https://md23r.github.io/music-portfolio/"
 
 google_tag_manager: GTM-P7PZFVP
 
 # SEO PLUGIN
 
 social:
-  name: Andrew Stiefel
+  name: Madison Drace
   links:
     - https://www.facebook.com/andrewstiefel
     - https://twitter.com/andrewstiefel
     - https://www.instagram.com/andrewstiefel
     - https://www.youtube.com/user/andrewstiefel
-    - https://www.linkedin.com/in/andrewstiefel
-    - https://github.com/andrewstiefel
+    - https://www.linkedin.com/in/madison-drace/
+    - https://www.madisondracelcom
     
 #THEME SETTINGS
 
