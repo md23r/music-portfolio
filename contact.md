@@ -6,7 +6,6 @@ summary: Want to say hello? Send me a note!
 permalink: /contact/
 ---
 
-**Email:** andrew@andrewstiefel.net  
-**Phone:** 206.289.0094
+**Email:** madison.drace!gmail.com
 
 {% include form.html %}
